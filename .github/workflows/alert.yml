@@ -22,4 +22,4 @@ jobs:
           to: rudra.107382@stu.upes.ac.in
           from: GitHub Actions
           body: |
-            The Python CI workflow failed. View logs at: ${{ github.event.workflow_run.html_url }}
+            The Python CI workflow failed
